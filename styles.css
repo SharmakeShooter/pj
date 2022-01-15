@@ -1,0 +1,20 @@
+body{
+  margin: auto;
+}
+.jumbotron{
+
+
+}
+.display-4{
+  position: relative top:0px;
+}
+#features{
+  padding-top: 10px;
+  align-items: center;
+  width: 20px;
+  justify-content: center;
+}
+.images{
+  width: 80px;
+  height: 100px;
+}
